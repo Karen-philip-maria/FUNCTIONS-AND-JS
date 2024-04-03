@@ -105,3 +105,4 @@ function changeArray2(arr) {
     console.log(newArr);
    }
    changeArray2([2, 4, 6, 8, 10, 12]);
+   
